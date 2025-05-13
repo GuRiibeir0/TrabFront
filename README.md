@@ -10,22 +10,17 @@ Este repositório contém o código-fonte do site do evento **TECHNOVA**, um dos
 - `contato.html` – Formulário de contato para dúvidas ou sugestões.
 
 ## 🛠️ Tecnologias Utilizadas
-
-- **HTML5**
-- **CSS3**
-- **[Materialize CSS](https://materializecss.com/)** – Framework responsivo baseado no Material Design.
+- **HTML**
+- **CSS**
+- **[Materialize CSS]** – Framework responsivo baseado no Material Design.
 - **Google Fonts & Material Icons**
 
 ## 🎯 Funcionalidades
 
-- Design responsivo para desktop e mobile.
+- Design responsivo para desktop.
 - Navegação entre páginas usando um menu superior consistente.
-- Apresentação visual clara da programação e dos palestrantes.
+- Apresentação visual clara da programação.
 - Formulário funcional (estrutura HTML pronta para integração com back-end).
-
-## 📸 Capturas de Tela *(opcional)*
-
-Adicione aqui imagens das páginas, caso queira destacar o visual do site.
 
 ## 📦 Como Usar
 
