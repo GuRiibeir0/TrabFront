@@ -31,4 +31,4 @@ Adicione aqui imagens das páginas, caso queira destacar o visual do site.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/GuRiibeir0/TrabFront.git
